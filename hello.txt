@@ -1,6 +1,6 @@
 hello git! 2
 hello git!
 hello git!
-hello git!
+hello git! ssh test
 hello git! master test
 hello git! hot-fix test
